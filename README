@@ -1,0 +1,5 @@
+The xml_serialization gem extends the XML serialization support in activesupport to allow for arrays containing strings, symbols, and integers.
+
+The first version of this code was written by Larry Baltz of FolkLogic for Mirai Espana during 2008. Some cleanups and extensions were made by David Anderson in Feb 2009, as well as the conversion to a gem.
+
+Copyright (c) 2008 Mirai España, S.L., (c) 2009 David Anderson See MIT-LICENSE for details.
