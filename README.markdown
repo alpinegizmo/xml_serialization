@@ -4,4 +4,4 @@ The [xslt_render](http://github.com/alpinegizmo/xslt_render/tree/) plugin for ra
 
 The first version of this code was written by Larry Baltz of [FolkLogic](http://folklogic.com) for [Mirai España](http://miraiespana.com/).
 
-Copyright (c) 2008 Mirai España, S.L., (c) 2009 FolkLogic SARL See MIT-LICENSE for details.
+Copyright (c) 2008 Mirai España, S.L., (c) 2009 FolkLogic SARL. See MIT-LICENSE for details.
