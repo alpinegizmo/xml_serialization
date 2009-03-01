@@ -4,6 +4,8 @@ ActiveSupport provides a to_xml method that produces appealing XML for ActiveRec
 
 The [xslt_render](http://github.com/alpinegizmo/xslt_render/tree/) plugin for rails depends on this gem.
 
+For more information, see [Rails on XML, part 7](http://alpinegizmo.com/2009/03/01/rails-on-xml-part-7-xml-serialization.html).
+
 ## Installation
 
 If you haven't already done so:
