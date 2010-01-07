@@ -14,7 +14,7 @@ If you haven't already done so:
     
 And then:
 
-    sudo gem install xml_serialization
+    sudo gem install alpinegizmo-xml_serialization
 
 ## Authors
 
